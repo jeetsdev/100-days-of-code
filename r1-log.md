@@ -11,3 +11,8 @@ The log of my #100DaysOfCode challenge. Started on [November 16, Tue 2021].
 - Explore DOCTYPE in HTML
 
 ### R1D2
+
+- Started Basic CSS
+- Learned about CSS Selectors
+- Learned about Class and ID's
+- Learned Basic element stylings like Padding, Margin, and Border.
